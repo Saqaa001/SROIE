@@ -25,5 +25,5 @@ This project is a web-based receipt annotation tool built with **Streamlit**. It
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourname/receipt-annotator.git
-cd receipt-annotator
+git clone https://https://github.com/Saqaa001/SROIE
+
