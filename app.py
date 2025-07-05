@@ -10,6 +10,7 @@ import json
 import os
 import tempfile
 
+
 # ========== Multilingual Support ==========
 LANGUAGES = {
     "English": "en",
